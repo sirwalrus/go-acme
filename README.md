@@ -1,2 +1,3 @@
-# go-acme
-Go ACME packaged as a container
+# go-lego
+
+ACME Go Lego Container
